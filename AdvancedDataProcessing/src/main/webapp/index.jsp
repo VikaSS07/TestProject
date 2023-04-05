@@ -10,5 +10,6 @@
 <body>
 	<%@ include file="navbar.jsp"%>
 	<%@ include file="table.jsp"%>
+	<h1>Hello</h1>
 </body>
 </html>
